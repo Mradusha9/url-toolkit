@@ -1,0 +1,16 @@
+{
+  "name": "@mradusha01/url-toolkit",
+  "version": "1.0.0",
+  "description": "A small and beginner-friendly toolkit for common URL operations",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "url",
+    "query-params",
+    "url-utilities"
+  ],
+  "license": "MIT"
+}
